@@ -11,7 +11,7 @@
 
 ## Coding
 1. mini_project.ipynb
-- 카카오톡 선물하기 페이지를 웹스크래핑
+- 카카오톡 선물하기 페이지를 Web Scrapping
 2. mini_project.final.sql
 - 선물하기 적당한 가격대 확인
 - 카테고리별 선물하기 좋은 브랜드 확인
