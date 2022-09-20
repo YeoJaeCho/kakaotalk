@@ -13,7 +13,7 @@
 ## Coding
 1. mini_project1.ipynb
 - 카카오톡 선물하기 페이지를 Web Scrapping
-2. mini_project1.final.sql
+2. mini_project1_final.sql
 - 선물하기 적당한 가격대 확인
 - 카테고리별 선물하기 좋은 브랜드 확인
 - 교환권 / 배송상품에서 각각 선물하기 좋은 제품 확인
